@@ -3,3 +3,6 @@ language:
   extension: sh
   exercise_filename: index.sh
   exercise_test_filename: test_index.sh
+  learn_as: first_language
+  progress: in_development
+  name: Bash
