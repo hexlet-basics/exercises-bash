@@ -1,5 +1,4 @@
 ---
 services:
   exercises:
-    image: hexletbasics/exercises-bash:cached
     command: make check

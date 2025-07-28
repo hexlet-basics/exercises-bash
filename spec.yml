@@ -1,5 +1,5 @@
 language:
-  docker_image: "hexletbasics/exercises-bash"
+  docker_image: "ghcr.io/hexlet-basics/exercises-bash"
   extension: sh
   exercise_filename: index.sh
   exercise_test_filename: test_index.sh
